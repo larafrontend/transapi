@@ -34,9 +34,9 @@
   "ambu-sus": [
     {
       "id": 1,
-      "universidade": "UERJ"
-      "hospital": "Hospital Universitário Pedro Ernesto"
-      "cidade": "Rio de Janeiro - RJ"
+      "local": "CPATT"
+      "hospital": "Centro de Pesquisa e Apoio a Travestis e Transexuais"
+      "cidade": "Curitiba - PR"
     },
     {
       "id": 2,
