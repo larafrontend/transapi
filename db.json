@@ -1,8 +1,14 @@
 {
-  "posts": [
+  "hospitais": [
     {
       "id": 1,
-      "title": "hello"
+      "universidade": "UFG - Hospital das Clínicas da Universidade Federal de Goiás",
+      "cidade": "Goiânia/GO",
+    },
+    {
+      "id": 2,
+      "universidade": "UFRGS - Hospital de Clínicas de Porto Alegre",
+      "cidade": "Goiânia/GO",
     }
   ],
   "profile": {
