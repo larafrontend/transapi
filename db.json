@@ -34,7 +34,7 @@
       "hospital": "Hospital de Clínicas da Faculdade de Medicina",
       "cidade": "São Paulo - SP",
       "endereço": "Rua, Av. Dr. Enéas Carvalho de Aguiar, 255 - Cerqueira César"
-    },
+    }
   ],
   "ambu-sus": [
     {
@@ -212,6 +212,6 @@
       "local": "Ambulátorio de Saúde Integral de Travestis e Transexuais João W. Nery",
       "cidade": "Niterói - RJ",
       "endereço": "Policlínica de Especialidades Sylvio Picanço, Av. Ernani do Amaral Peixoto, nº 169, 4º andar"
-    },
+    }
   ]
 }
