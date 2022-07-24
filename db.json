@@ -19,13 +19,13 @@
       "cidade": "Recife - PE"
     },
     {
-      "id": 5,
+      "id": 4,
       "universidade": "UFRGS"
       "hospital": "Hospital de Clínicas de Porto Alegre"
       "cidade": "Porto Alegre - RS"
     },
     {
-      "id": 6,
+      "id": 5,
       "universidade": "FMUSP"
       "hospital": "Hospital de Clínicas da Faculdade de Medicina"
       "cidade": "São Paulo - SP"
@@ -34,33 +34,34 @@
   "ambu-sus": [
     {
       "id": 1,
-      "local": "CPATT"
-      "hospital": "Centro de Pesquisa e Apoio a Travestis e Transexuais"
+      "local": "CPATT - Centro de Pesquisa e Apoio a Travestis e Transexuais"
       "cidade": "Curitiba - PR"
     },
     {
       "id": 2,
-      "universidade": "UFG"
-      "hospital": "Hospital das Clínicas da Universidade Federal de Góias"
-      "cidade": "Goiânia - GO"
+      "local": "Instituto Estadual de Diabetes e Endocrinologia"
+      "cidade": "Rio de Janeiro - RJ"
     },
     {
       "id": 3,
-      "universidade": "UFP"
-      "hospital": "Hospital das Clínicas"
-      "cidade": "Recife - PE"
+      "local": "Hospital Universitário Professor Edgard Santos"
+      "cidade": "Salvador - BA"
+    },
+    {
+      "id": 4,
+      "local": "Centro de Referência e Treinamento DST/AIDS"
+      "cidade": "São Paulo - SP"
     },
     {
       "id": 5,
-      "universidade": "UFRGS"
-      "hospital": "Hospital de Clínicas de Porto Alegre"
-      "cidade": "Porto Alegre - RS"
+      "local": "Ambulatório do Hospital de Clínicas de Uberlândia"
+      "cidade": "Uberlândia - MG"
     },
+    
     {
       "id": 6,
-      "universidade": "FMUSP"
-      "hospital": "Hospital de Clínicas da Faculdade de Medicina"
-      "cidade": "São Paulo - SP"
+      "local": "Hospital Universitário Cassiano Antônio de Moraes"
+      "cidade": "Vitória - ES"
     }
   ]
 }
