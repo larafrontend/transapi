@@ -1,217 +1,260 @@
 {
-  "ambul-hosp": [
-    {
-      "id": 1,
-      "universidade": "UERJ",
-      "hospital": "Hospital Universitário Pedro Ernesto",
-      "cidade": "Rio de Janeiro - RJ",
-      "endereço": "Boulevard 28 de Setembro, 77 - Vila Isabel"
-    },
-    {
-      "id": 2,
-      "universidade": "UFG",
-      "hospital": "Hospital das Clínicas da Universidade Federal de Góias",
-      "cidade": "Goiânia - GO",
-      "endereço": "Rua 235 QD. 68 Lote Área, Nº 285, s/nº - Setor Leste Universitário"
-    },
-    {
-      "id": 3,
-      "universidade": "UFPE",
-      "hospital": "Hospital das Clínicas",
-      "cidade": "Recife - PE",
-      "endereço": "Av. Prof. Moraes Rego, 1235 - Cidade Universitária"
-    },
-    {
-      "id": 4,
-      "universidade": "UFRGS",
-      "hospital": "Hospital de Clínicas de Porto Alegre",
-      "cidade": "Porto Alegre - RS",
-      "endereço": "Rua Ramiro Barcelos, 2350, Av. Protásio Alves, 211 - Santa Cecília"
-    },
-    {
-      "id": 5,
-      "universidade": "FMUSP",
-      "hospital": "Hospital de Clínicas da Faculdade de Medicina",
-      "cidade": "São Paulo - SP",
-      "endereço": "Rua, Av. Dr. Enéas Carvalho de Aguiar, 255 - Cerqueira César"
-    }
-  ],
-  "ambu-sus": [
-    {
-      "id": 1,
-      "local": "CPATT - Centro de Pesquisa e Apoio a Travestis e Transexuais",
-      "cidade": "Curitiba - PR",
-      "endereço": "R. Amintas de Barros, 816 - Alto da XV"
-    },
-    {
-      "id": 2,
-      "local": "Instituto Estadual de Diabetes e Endocrinologia Luiz Capriglione",
-      "cidade": "Rio de Janeiro - RJ",
-      "endereço": "R. Moncorvo Filho, 90 - Centro"
-    },
-    {
-      "id": 3,
-      "local": "Hospital Universitário Professor Edgard Santos",
-      "cidade": "Salvador - BA",
-      "endereço": "R. Dr. Augusto Viana, s/n - Canela"
-    },
-    {
-      "id": 4,
-      "local": "Centro de Referência e Treinamento DST/AIDS",
-      "cidade": "São Paulo - SP",
-      "endereço": "R. Santa Cruz, 81 - Vila Mariana"
-    },
-    {
-      "id": 5,
-      "local": "Ambulatório do Hospital de Clínicas de Uberlândia",
-      "cidade": "Uberlândia - MG",
-      "endereço": "Av. Pará, 1720 - Umuarama"
-    },
-    {
-      "id": 6,
-      "local": "Hospital Universitário Cassiano Antônio de Moraes",
-      "cidade": "Vitória - ES",
-      "endereço": "Av. Mal. Campos, 1355 - Santos Dumont"
-    }
-  ],
-  "ambu-est": [
-    {
-      "id": 1,
-      "local": "Ambulatório Transexualizador da Unidade Especializada em Doenças Infectoparasitárias e Especiais",
-      "cidade": "Belém - PA",
-      "endereço": "Av. Sen. Lemos - Telégrafo Sem Fio"
-    },
-    {
-      "id": 2,
-      "local": "Ambulatório de atenção especializada no Processo Transexualizador do Hospital Eduardo de Menezes",
-      "cidade": "Belo Horizonte - MG",
-      "endereço": "R. Dr. Cristiano Rezende, 2213 - Bonsucesso"
-    },
-    {
-      "id": 3,
-      "local": "Ambulatório Trans do Hospital Dia",
-      "cidade": "Brasília - DF",
-      "endereço": "Asa Sul Entrequadra Sul 508/509 - Asa Sul"
-    },
-    {
-      "id": 4,
-      "local": "Ambulatório LGBT Darlen Gasparelli",
-      "cidade": "Camaragibe - PE",
-      "endereço": "Rua Joaquim Cavalcante de Santana - Novo do Carmelo"
-    },
-    {
-      "id": 5,
-      "local": "Ambulatório de Saúde de Travestis e Transexuais do Hospital Universitário Maria Pedrossian",
-      "cidade": "Campo Grande - MS",
-      "endereço": "Av. Sen. Filinto Müler, 355 - Vila Ipiranga"
-    },
-    {
-      "id": 6,
-      "local": "Centro de Saúde Campeche",
-      "cidade": "Florianópolis - SC",
-      "endereço": "R. da Capela, s/n - Campeche"
-    },
-    {
-      "id": 7,
-      "local": "Centro de Saúde Estreito",
-      "cidade": "Florianópolis - SC",
-      "endereço": "Rua Araci Vaz Callado, 742 - Estreito"
-    },
-    {
-      "id": 8,
-      "local": "Centro de Saúde Saco Grande",
-      "cidade": "Florianópolis - SC",
-      "endereço": "Rod. Virgílio Várzea, s/n - Saco Grande"
-    },
-    {
-      "id": 9,
-      "local": "Ambulatório de Saúde Trans do Hospital de Saúde Mental Frota Pinto",
-      "cidade": "Fortaleza - CE",
-      "endereço": "Rua Vicente Nobre Macêdo, s/n - Messejana"
-    },
-    {
-      "id": 10,
-      "local": "Ambulatório de Transexualidade do Hospital Geral de Goiânia Alberto Rassi",
-      "cidade": "Goiânia - GO",
-      "endereço": "Av. Anhanguera, 6479 - St. Oeste"
-    },
-    {
-      "id": 11,
-      "local": "Ambulatório para travestis e transexuais do Hospital Clementino Fraga",
-      "cidade": "João Pessoa - PB",
-      "endereço": "R. Estér Borges Bastos, s/n - Jaguaribe"
-    },
-    {
-      "id": 12,
-      "local": "Ambulatório de Saúde Integral Trans do Hospital Universitário da Federal de Sergipe",
-      "cidade": "Lagarto - SE",
-      "endereço": "Av. Brasília, 49400 - Santa Terezinha"
-    },
-    {
-      "id": 13,
-      "local": "Ambulatório LGBT Patrícia Gomes, Policlínica Lessa de Andrade",
-      "cidade": "Recife - PE",
-      "endereço": "Estr. dos Remédios, 2416 - Madalena"
-    },
-    {
-      "id": 14,
-      "local": "UPE, Centro Integrado de Saúde Amaury de Medeiros",
-      "cidade": "Recife - PE",
-      "endereço": "R. Visc. de Mamanguape, S/N - Encruzilhada"
-    },
-    {
-      "id": 15,
-      "local": "Ambulatório LBT do Hospital da Mulher",
-      "cidade": "Recife - PE",
-      "endereço": "Av. Recife, 5629 - Estância"
-    },
-    {
-      "id": 16,
-      "local": "Ambulatório de Estudos em Sexualidade Humana do HC",
-      "cidade": "Ribeirão Preto - SP",
-      "endereço": "R. Ten. Catão Roxo, 3900 - Vila Monte Alegre"
-    },
-    {
-      "id": 17,
-      "local": "Ambulatório do Centro Estadual de Diagnóstico, Assistência e Pesquisa",
-      "cidade": "Salvador - BA",
-      "endereço": "R. Comendador José Alves Ferreira, 240 - Garcia"
-    },
-    {
-      "id": 18,
-      "local": "Ambulatório trans do Hospital Guilherme Álvaro",
-      "cidade": "Santos - SP",
-      "endereço": "R. Oswaldo Cruz, 197 - Boqueirão"
-    },
-    {
-      "id": 19,
-      "local": "Ambulatório Municipal de Saúde Integral de Travestis e Transexuais",
-      "cidade": "São José do Rio Preto - SP",
-      "endereço": "Rua do Rosário, nº 1903 – Vila Esplanada"
-    },
-    {
-      "id": 20,
-      "local": "Ambulatório AMTIGOS do Instituto de Psiquiatria do Hospital das Clínicas",
-      "cidade": "São Paulo - SP",
-      "endereço": "Rua Dr. Ovídio Pires de Campos, 785 Suba a Rua Teodoro Sampaio Vire a direita na Av. Dr. Enéas de Carvalho Aguiar Vire a direita e desça a Rua Particular Vire a direita na Rua Dr. Ovídio Pires de Campos, até o, número 785 - Cerqueira Césara"
-    },
-    {
-      "id": 21,
-      "local": "Ambulatório Roberto Farina, UNIFESP",
-      "cidade": "São Paulo - SP",
-      "endereço": "Rua Sena Madureira, n.º 1.500 - Vila Clementino"
-    },
-    {
-      "id": 22,
-      "local": "UBS Santa Cecília",
-      "cidade": "São Paulo - SP",
-      "endereço": "R. São Manoel, 543 Bairro - Santa Cecília"
-    },
-    {
-      "id": 23,
-      "local": "Ambulátorio de Saúde Integral de Travestis e Transexuais João W. Nery",
-      "cidade": "Niterói - RJ",
-      "endereço": "Policlínica de Especialidades Sylvio Picanço, Av. Ernani do Amaral Peixoto, nº 169, 4º andar"
-    }
-  ]
+        "norte": {
+            "am": [
+                {
+                    "id": 1,
+                    "local": "Ambulatório de Diversidade Sexual e Gênero - Processo Transexualizador - Policlínica Codajás",
+                    "cidade": "Manaus",
+                    "endereço": "Av. Codajás, 26 - Cachoeirinha"
+                }
+            ],
+            "pa": [
+                {
+                    "id": 1,
+                    "local": "Ambulatório Transexualizador da Unidade Especializada em Doenças Infectoparasitárias e Especiais",
+                    "cidade": "Belém",
+                    "endereço": "Av. Sen. Lemos - Telégrafo Sem Fio"
+                }
+            ]
+        },
+        "nordeste": {
+            "ba": [
+                {
+                    "id": 1,
+                    "local": "Hospital Universitário Professor Edgard Santos",
+                    "cidade": "Salvador",
+                    "endereço": "R. Dr. Augusto Viana, s/n - Canela"
+                },
+                {
+                    "id": 2,
+                    "local": "Ambulatório do Centro Estadual de Diagnóstico, Assistência e Pesquisa",
+                    "cidade": "Salvador",
+                    "endereço": "R. Comendador José Alves Ferreira, 240 - Garcia"
+                }
+            ],
+            "ce": [
+                {
+                    "id": 1,
+                    "local": "Ambulatório de Saúde Trans do Hospital de Saúde Mental Frota Pinto",
+                    "cidade": "Fortaleza - CE",
+                    "endereço": "Rua Vicente Nobre Macêdo, s/n - Messejana"
+                }
+            ],
+            "pb": [
+                {
+                    "id": 1,
+                    "local": "Ambulatório para travestis e transexuais do Hospital Clementino Fraga",
+                    "cidade": "João Pessoa",
+                    "endereço": "R. Estér Borges Bastos, s/n - Jaguaribe"
+                }
+            ],
+            "pe": [
+                {
+                    "id": 1,
+                    "local": "Hospital das Clínicas",
+                    "cidade": "Recife",
+                    "endereço": "Av. Prof. Moraes Rego, 1235 - Cidade Universitária"
+                },
+                {
+                    "id": 2,
+                    "local": "Ambulatório LGBT Darlen Gasparelli",
+                    "cidade": "Camaragibe",
+                    "endereço": "Rua Joaquim Cavalcante de Santana - Novo do Carmelo"
+                },
+                {
+                    "id": 3,
+                    "local": "Ambulatório LGBT Patrícia Gomes, Policlínica Lessa de Andrade",
+                    "cidade": "Recife",
+                    "endereço": "Estr. dos Remédios, 2416 - Madalena"
+                },
+                {
+                    "id": 4,
+                    "local": "UPE, Centro Integrado de Saúde Amaury de Medeiros",
+                    "cidade": "Recife",
+                    "endereço": "R. Visc. de Mamanguape, S/N - Encruzilhada"
+                },
+                {
+                    "id": 5,
+                    "local": "Ambulatório LBT do Hospital da Mulher",
+                    "cidade": "Recife",
+                    "endereço": "Av. Recife, 5629 - Estância"
+                }
+            ],
+            "se": [
+                {
+                    "id": 1,
+                    "local": "Ambulatório de Saúde Integral Trans do Hospital Universitário da Federal de Sergipe",
+                    "cidade": "Lagarto",
+                    "endereço": "Av. Brasília, 49400 - Santa Terezinha"
+                }
+            ]
+        },
+        "centro-oeste": {
+            "df": [
+                {
+                    "id": 1,
+                    "local": "Ambulatório Trans do Hospital Dia",
+                    "cidade": "Brasília",
+                    "endereço": "Asa Sul Entrequadra Sul 508/509 - Asa Sul"
+                }
+            ],
+            "go": [
+                {
+                    "id": 1,
+                    "local": "Hospital das Clínicas da Universidade Federal de Góias",
+                    "cidade": "Goiânia",
+                    "endereço": "Rua 235 QD. 68 Lote Área, Nº 285, s/nº - Setor Leste Universitário"
+                },
+                {
+                    "id": 2,
+                    "local": "Ambulatório de Transexualidade do Hospital Geral de Goiânia Alberto Rassi",
+                    "cidade": "Goiânia",
+                    "endereço": "Av. Anhanguera, 6479 - St. Oeste"
+                }
+            ],
+            "ms": [
+                {
+                    "id": 1,
+                    "local": "Ambulatório de Saúde de Travestis e Transexuais do Hospital Universitário Maria Pedrossian",
+                    "cidade": "Campo Grande",
+                    "endereço": "Av. Sen. Filinto Müler, 355 - Vila Ipiranga"
+                }
+            ]
+        },
+        "sudeste": {
+            "es": [
+                {
+                    "id": 1,
+                    "local": "Hospital Universitário Cassiano Antônio de Moraes",
+                    "cidade": "Vitória",
+                    "endereço": "Av. Mal. Campos, 1355 - Santos Dumont"
+                }
+            ],
+            "mg": [
+                {
+                    "id": 1,
+                    "local": "Ambulatório do Hospital de Clínicas de Uberlândia",
+                    "cidade": "Uberlândia",
+                    "endereço": "Av. Pará, 1720 - Umuarama"
+                },
+                {
+                    "id": 2,
+                    "local": "Ambulatório de atenção especializada no Processo Transexualizador do Hospital Eduardo de Menezes",
+                    "cidade": "Belo Horizonte",
+                    "endereço": "R. Dr. Cristiano Rezende, 2213 - Bonsucesso"
+                }
+            ],
+            "rj": [
+                {
+                    "id": 1,
+                    "lolal": "Hospital Universitário Pedro Ernesto",
+                    "cidade": "Rio de Janeiro",
+                    "endereço": "Boulevard 28 de Setembro, 77 - Vila Isabel"
+                },
+                {
+                    "id": 2,
+                    "local": "Instituto Estadual de Diabetes e Endocrinologia Luiz Capriglione",
+                    "cidade": "Rio de Janeiro",
+                    "endereço": "R. Moncorvo Filho, 90 - Centro"
+                },
+                {
+                    "id": 3,
+                    "local": "Ambulátorio de Saúde Integral de Travestis e Transexuais João W. Nery",
+                    "cidade": "Niterói",
+                    "endereço": "Policlínica de Especialidades Sylvio Picanço, Av. Ernani do Amaral Peixoto, nº 169, 4º andar"
+                }
+            ],
+            "sp": [
+                {
+                    "id": 1,
+                    "local": "Hospital de Clínicas da Faculdade de Medicina",
+                    "cidade": "São Paulo",
+                    "endereço": "Rua, Av. Dr. Enéas Carvalho de Aguiar, 255 - Cerqueira César"
+                },
+                {
+                    "id": 2,
+                    "local": "Centro de Referência e Treinamento DST/AIDS",
+                    "cidade": "São Paulo",
+                    "endereço": "R. Santa Cruz, 81 - Vila Mariana"
+                },
+                {
+                    "id": 3,
+                    "local": "Ambulatório de Estudos em Sexualidade Humana do HC",
+                    "cidade": "Ribeirão Preto",
+                    "endereço": "R. Ten. Catão Roxo, 3900 - Vila Monte Alegre"
+                },
+                {
+                    "id": 4,
+                    "local": "Ambulatório trans do Hospital Guilherme Álvaro",
+                    "cidade": "Santos",
+                    "endereço": "R. Oswaldo Cruz, 197 - Boqueirão"
+                },
+                {
+                    "id": 5,
+                    "local": "Ambulatório Municipal de Saúde Integral de Travestis e Transexuais",
+                    "cidade": "São José do Rio Preto",
+                    "endereço": "Rua do Rosário, nº 1903 – Vila Esplanada"
+                },
+                {
+                    "id": 6,
+                    "local": "Ambulatório AMTIGOS do Instituto de Psiquiatria do Hospital das Clínicas",
+                    "cidade": "São Paulo",
+                    "endereço": "Rua Dr. Ovídio Pires de Campos, 785 Suba a Rua Teodoro Sampaio Vire a direita na Av. Dr. Enéas de Carvalho Aguiar Vire a direita e desça a Rua Particular Vire a direita na Rua Dr. Ovídio Pires de Campos, até o, número 785 - Cerqueira Césara"
+                },
+                {
+                    "id": 7,
+                    "local": "Ambulatório Roberto Farina, UNIFESP",
+                    "cidade": "São Paulo",
+                    "endereço": "Rua Sena Madureira, n.º 1.500 - Vila Clementino"
+                },
+                {
+                    "id": 8,
+                    "local": "UBS Santa Cecília",
+                    "cidade": "São Paulo",
+                    "endereço": "R. São Manoel, 543 Bairro - Santa Cecília"
+                }
+            ],
+            "parana": [
+                {
+                    "id": 1,
+                    "local": "CPATT - Centro de Pesquisa e Apoio a Travestis e Transexuais",
+                    "cidade": "Curitiba",
+                    "endereço": "R. Amintas de Barros, 816 - Alto da XV"
+                }
+            ],
+            "rs": [
+                {
+                    "id": 1,
+                    "local": "Hospital de Clínicas de Porto Alegre",
+                    "cidade": "Porto Alegre - RS",
+                    "endereço": "Rua Ramiro Barcelos, 2350, Av. Protásio Alves, 211 - Santa Cecília"
+                },
+                {
+                    "id": 2,
+                    "local": "Centro de Saúde Modelo - 2º Andar",
+                    "cidade": "Porto Alegre - RS",
+                    "endereço": "Rua Jerônimo de Ornellas, 55, bairro Santana"
+                }
+            ],
+            "sc": [
+                {
+                    "id": 1,
+                    "local": "Centro de Saúde Campeche",
+                    "cidade": "Florianópolis - SC",
+                    "endereço": "R. da Capela, s/n - Campeche"
+                },
+                {
+                    "id": 2,
+                    "local": "Centro de Saúde Estreito",
+                    "cidade": "Florianópolis - SC",
+                    "endereço": "Rua Araci Vaz Callado, 742 - Estreito"
+                },
+                {
+                    "id": 3,
+                    "local": "Centro de Saúde Saco Grande",
+                    "cidade": "Florianópolis - SC",
+                    "endereço": "Rod. Virgílio Várzea, s/n - Saco Grande"
+                }
+            ]
+        }
 }
