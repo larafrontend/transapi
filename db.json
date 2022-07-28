@@ -25,6 +25,14 @@
             "endereço": "R. Dr. Augusto Viana, s/n - Canela"
         },
         {
+            "id": 4,
+            "região": "nordeste",
+            "estado": "BA",
+            "cidade": "Salvador",
+            "local": "Ambulatório do Centro Estadual de Diagnóstico, Assistência e Pesquisa",
+            "endereço": "R. Comendador José Alves Ferreira, 240 - Garcia"
+        },
+        {
             "id": 5,
             "região": "nordeste",
             "estado": "CE",
@@ -57,7 +65,7 @@
             "endereço": "Rua Joaquim Cavalcante de Santana - Novo do Carmelo"
         },
         {
-            "id": 12,
+            "id": 9,
             "região": "nordeste",
             "estado": "SE",
             "cidade": "Lagarto",
@@ -65,7 +73,7 @@
             "endereço": "Av. Brasília, 49400 - Santa Terezinha"
         },
         {
-            "id": 13,
+            "id": 10,
             "região": "centro-oeste",
             "estado": "DF",
             "cidade": "Brasília",
@@ -73,7 +81,7 @@
             "endereço": "Asa Sul Entrequadra Sul 508/509 - Asa Sul"
         },
         {
-            "id": 14,
+            "id": 11,
             "região": "centro-oeste",
             "estado": "GO",
             "cidade": "Goiânia",
@@ -81,7 +89,7 @@
             "endereço": "Rua 235 QD. 68 Lote Área, Nº 285, s/nº - Setor Leste Universitário"
         },
         {
-            "id": 16,
+            "id": 12,
             "região": "centro-oeste",
             "estado": "MS",
             "cidade": "Campo Grande",
@@ -89,7 +97,7 @@
             "endereço": "Av. Sen. Filinto Müler, 355 - Vila Ipiranga"
         },
         {
-            "id": 17,
+            "id": 13,
             "região": "sudeste",
             "estado": "ES",
             "cidade": "Vitória",
@@ -97,7 +105,7 @@
             "endereço": "Av. Mal. Campos, 1355 - Santos Dumont"
         },
         {
-            "id": 18,
+            "id": 14,
             "região": "sudeste",
             "estado": "MG",
             "cidade": "Uberlândia",
@@ -105,7 +113,7 @@
             "endereço": "Av. Pará, 1720 - Umuarama"
         },
         {
-            "id": 19,
+            "id": 15,
             "região": "sudeste",
             "estado": "MG",
             "cidade": "Belo Horizonte",
@@ -113,7 +121,7 @@
             "endereço": "R. Dr. Cristiano Rezende, 2213 - Bonsucesso"
         },
         {
-            "id": 20,
+            "id": 16,
             "região": "sudeste",
             "estado": "RJ",
             "cidade": "Rio de Janeiro",
@@ -121,7 +129,7 @@
             "endereço": "Boulevard 28 de Setembro, 77 - Vila Isabel"
         },
         {
-            "id": 21,
+            "id": 17,
             "região": "sudeste",
             "estado": "RJ",
             "cidade": "Rio de Janeiro",
@@ -129,7 +137,7 @@
             "endereço": "R. Moncorvo Filho, 90 - Centro"
         },
         {
-            "id": 23,
+            "id": 18,
             "região": "sudeste",
             "estado": "SP",
             "cidade": "São Paulo",
@@ -137,7 +145,7 @@
             "endereço": "Rua, Av. Dr. Enéas Carvalho de Aguiar, 255 - Cerqueira César"
         },
         {
-            "id": 25,
+            "id": 19,
             "região": "sudeste",
             "estado": "SP",
             "cidade": "Ribeirão Preto",
@@ -145,7 +153,7 @@
             "endereço": "R. Ten. Catão Roxo, 3900 - Vila Monte Alegre"
         },
         {
-            "id": 26,
+            "id": 20,
             "região": "sudeste",
             "estado": "SP",
             "cidade": "Santos",
@@ -153,7 +161,7 @@
             "endereço": "R. Oswaldo Cruz, 197 - Boqueirão"
         },
         {
-            "id": 27,
+            "id": 21,
             "região": "sudeste",
             "estado": "SP",
             "cidade": "São José do Rio Preto",
@@ -161,7 +169,7 @@
             "endereço": "Rua do Rosário, nº 1903 – Vila Esplanada"
         },
         {
-            "id": 31,
+            "id": 22,
             "região": "sul",
             "estado": "PR",
             "cidade": "Curitiba",
@@ -169,7 +177,7 @@
             "endereço": "R. Amintas de Barros, 816 - Alto da XV"
         },
         {
-            "id": 32,
+            "id": 23,
             "região": "sul",
             "estado": "RS",
             "cidade": "Porto Alegre - RS",
@@ -177,7 +185,7 @@
             "endereço": "Rua Ramiro Barcelos, 2350, Av. Protásio Alves, 211 - Santa Cecília"
         },
         {
-            "id": 33,
+            "id": 24,
             "região": "sul",
             "estado": "RS",
             "cidade": "Porto Alegre - RS",
@@ -185,7 +193,7 @@
             "endereço": "Rua Jerônimo de Ornellas, 55, bairro Santana"
         },
         {
-            "id": 34,
+            "id": 25,
             "região": "sul",
             "estado": "SC",
             "cidade": "Florianópolis - SC",
@@ -193,7 +201,7 @@
             "endereço": "R. da Capela, s/n - Campeche"
         },
         {
-            "id": 35,
+            "id": 26,
             "região": "sul",
             "estado": "SC",
             "cidade": "Florianópolis - SC",
