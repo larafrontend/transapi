@@ -1,5 +1,4 @@
 {
-    "locais": [
         {
             "id": 1,
             "região": "norte",
@@ -208,5 +207,4 @@
             "local": "Centro de Saúde Estreito",
             "endereço": "Rua Araci Vaz Callado, 742 - Estreito"
         }
-    ]
 }
