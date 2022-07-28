@@ -25,14 +25,6 @@
             "endereço": "R. Dr. Augusto Viana, s/n - Canela"
         },
         {
-            "id": 4,
-            "região": "nordeste",
-            "estado": "BA",
-            "cidade": "Salvador",
-            "local": "Ambulatório do Centro Estadual de Diagnóstico, Assistência e Pesquisa",
-            "endereço": "R. Comendador José Alves Ferreira, 240 - Garcia"
-        },
-        {
             "id": 5,
             "região": "nordeste",
             "estado": "CE",
@@ -65,30 +57,6 @@
             "endereço": "Rua Joaquim Cavalcante de Santana - Novo do Carmelo"
         },
         {
-            "id": 9,
-            "região": "nordeste",
-            "estado": "PE",
-            "cidade": "Recife",
-            "local": "Ambulatório LGBT Patrícia Gomes, Policlínica Lessa de Andrade",
-            "endereço": "Estr. dos Remédios, 2416 - Madalena"
-        },
-        {
-            "id": 10,
-            "região": "nordeste",
-            "estado": "PE",
-            "cidade": "Recife",
-            "local": "UPE, Centro Integrado de Saúde Amaury de Medeiros",
-            "endereço": "R. Visc. de Mamanguape, S/N - Encruzilhada"
-        },
-        {
-            "id": 11,
-            "região": "nordeste",
-            "estado": "PE",
-            "cidade": "Recife",
-            "local": "Ambulatório LBT do Hospital da Mulher",
-            "endereço": "Av. Recife, 5629 - Estância"
-        },
-        {
             "id": 12,
             "região": "nordeste",
             "estado": "SE",
@@ -111,14 +79,6 @@
             "cidade": "Goiânia",
             "local": "Hospital das Clínicas da Universidade Federal de Góias",
             "endereço": "Rua 235 QD. 68 Lote Área, Nº 285, s/nº - Setor Leste Universitário"
-        },
-        {
-            "id": 15,
-            "região": "centro-oeste",
-            "estado": "GO",
-            "cidade": "Goiânia",
-            "local": "Ambulatório de Transexualidade do Hospital Geral de Goiânia Alberto Rassi",
-            "endereço": "Av. Anhanguera, 6479 - St. Oeste"
         },
         {
             "id": 16,
@@ -169,28 +129,12 @@
             "endereço": "R. Moncorvo Filho, 90 - Centro"
         },
         {
-            "id": 22,
-            "região": "sudeste",
-            "estado": "RJ",
-            "cidade": "Niterói",
-            "local": "Ambulátorio de Saúde Integral de Travestis e Transexuais João W. Nery",
-            "endereço": "Policlínica de Especialidades Sylvio Picanço, Av. Ernani do Amaral Peixoto, nº 169, 4º andar"
-        },
-        {
             "id": 23,
             "região": "sudeste",
             "estado": "SP",
             "cidade": "São Paulo",
             "local": "Hospital de Clínicas da Faculdade de Medicina",
             "endereço": "Rua, Av. Dr. Enéas Carvalho de Aguiar, 255 - Cerqueira César"
-        },
-        {
-            "id": 24,
-            "região": "sudeste",
-            "estado": "SP",
-            "cidade": "São Paulo",
-            "local": "Centro de Referência e Treinamento DST/AIDS",
-            "endereço": "R. Santa Cruz, 81 - Vila Mariana"
         },
         {
             "id": 25,
@@ -215,30 +159,6 @@
             "cidade": "São José do Rio Preto",
             "local": "Ambulatório Municipal de Saúde Integral de Travestis e Transexuais",
             "endereço": "Rua do Rosário, nº 1903 – Vila Esplanada"
-        },
-        {
-            "id": 28,
-            "região": "sudeste",
-            "estado": "SP",
-            "cidade": "São Paulo",
-            "local": "Ambulatório AMTIGOS do Instituto de Psiquiatria do Hospital das Clínicas",
-            "endereço": "Rua Dr. Ovídio Pires de Campos, 785 Suba a Rua Teodoro Sampaio Vire a direita na Av. Dr. Enéas de Carvalho Aguiar Vire a direita e desça a Rua Particular Vire a direita na Rua Dr. Ovídio Pires de Campos, até o, número 785 - Cerqueira Césara"
-        },
-        {
-            "id": 29,
-            "região": "sudeste",
-            "estado": "SP",
-            "cidade": "São Paulo",
-            "local": "Ambulatório Roberto Farina, UNIFESP",
-            "endereço": "Rua Sena Madureira, n.º 1.500 - Vila Clementino"
-        },
-        {
-            "id": 30,
-            "região": "sudeste",
-            "estado": "SP",
-            "cidade": "São Paulo",
-            "local": "UBS Santa Cecília",
-            "endereço": "R. São Manoel, 543 Bairro - Santa Cecília"
         },
         {
             "id": 31,
@@ -279,14 +199,6 @@
             "cidade": "Florianópolis - SC",
             "local": "Centro de Saúde Estreito",
             "endereço": "Rua Araci Vaz Callado, 742 - Estreito"
-        },
-        {
-            "id": 36,
-            "região": "sul",
-            "estado": "SC",
-            "cidade": "Florianópolis - SC",
-            "local": "Centro de Saúde Saco Grande",
-            "endereço": "Rod. Virgílio Várzea, s/n - Saco Grande"
         }
     ]
 }
